@@ -1,6 +1,8 @@
 # Curso-PHP-Laravel-Completo-E-Total
 Curso mais completo e gratuito de Laravel do Universo aqui do Brasil.
 
+Professor: [Michael Douglas](https://github.com/michaeldouglas/)
+
 ## Ementa
 
 - O que é necessário saber
