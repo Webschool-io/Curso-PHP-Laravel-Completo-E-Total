@@ -57,6 +57,7 @@ Chamando o NameSpace para chegada no controller.
     - Layouts Laravel
         Criando nosso primeiro layout
         Extendendo nosso layout
+  - View Composers  
   - Validação
     - Utilizando validadores nos padrões do Laravel
         Irei explicar além do que são também como estender a funcionalidade e utilizar a sobrescrita para criar seu validador.
