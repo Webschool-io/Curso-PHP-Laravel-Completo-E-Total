@@ -81,3 +81,24 @@ Chamando o NameSpace para chegada no controller.
     - Aplicando testes com Laravel
     - Model Factories
         Além de utilizar irei realizar testes utilizando o modelo.
+- DDD - Domain Driven Development. [Vinicius Reis](https://github.com/vinicius73)
+    - Introdução
+      - Módulos. O que são, o que resolvem e o eu não resolvem. 
+      - Um pouco de S.O.L.I.D.
+    - Afinal o que é "desenvolvimento orientado a dominíos"?
+      - Core
+      - Domains (Dominíos)
+      - Applications (Aplicações)
+      - Support (Suporte)
+    - O que saber antes de se aventurar
+      - Service Provider
+      - Service Container
+      - Dependency Injection
+    - Direto ao código
+      - Criando o "core"
+      - Criando nossos dominíos
+      - Criando nossas aplicações
+      - Criando pacotes de suporte
+    - Mergulhando fundo
+      - Repository Partten
+      - Services
