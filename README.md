@@ -1,9 +1,49 @@
 # Curso-PHP-Laravel-Completo-E-Total
-Curso mais completo e gratuito de Laravel do Universo aqui do Brasil.
 
-Professor: [Michael Douglas](https://github.com/michaeldouglas/)
+Curso mais completo e gratuito de Laravel do Universo aqui do Brasil com ele você será capaz de instalar o Laravel e criar seu próprio e-commerce sem dor de cabeça e complicações.
+
+E veja de quebra além de toda a vantagem de não pagar nada você ainda terá a oportunidade de saber como foi elaborado o projeto Laravel Pagseguro e quem sabe depois de conhecer a criação você não faça o seu mesmo ?
+
+# [Slack da Webschool](https://webschool-slack.herokuapp.com/)
+- Coloque um email para login( hotmail não funciona )
+- Após isso, clique em Webschool para entrar no link do slack
+- Coloque o email que você digitou antes e crie uma senha
+- Entre no channel `curso-laravel`
+
+## Brindes
+
+Para quem conseguir **COMPROVADAMENTE** trazer 15 amigos para o curso de Laravel completo e total ganhara um livro que sairá pela Casa Do Código inteiramente grátis de certificação PHP denominado: Descomplicando a certificação PHP.
+
+Agora para quem conseguir trazer 30 amigos além de ganhar o livro INTEIRAMENTE GRÁTIS também ganhará um adesivo do Laravel mais uma camiseta do nosso curso sem custo nenhum!
+
+# O Professor
+
+É graduado em gestão de tecnologia da informação e procura sempre estar próximo a comunidade ajudando com cursos e livros. 
+
+Sempre que pode tenta estar presente em palestras buscando não só palestrar como estar mais próximo da comunidade pois é apaixonado por Open Source em qualquer nível que ele esteja presente, compartilha seu conhecimento em seu site pessoal http://michaelaraujo.net e na comunidade laravel em http://www.laravel.com.br.
+
+É profissional Zend Certified Engineer 5.5, instrutor 4 Linux, instrutor Webschool-io, Líder técnico de desenvolvimento e criador do Laravel PagSeguro https://github.com/michaeldouglas/laravel-pagseguro.
+
+### Projetos sustentados
+
+Apoia o projeto Webschool.io na trilha de Laravel:
+
+* [Grupo Facebook webschool.io](https://www.facebook.com/webschool.io)
+* [webschool.io](https://github.com/Webschool-io)
+
+Mantenedor e criador dos seguintes grupos:
+
+* [Laravel São Paulo](https://www.facebook.com/groups/laravelsp)
+ 
+* [Phing Brasil](https://www.facebook.com/groups/phingbrasil)
+ 
+* [PHP Silex Brasil](https://www.facebook.com/groups/silexbrasil)
+  
+* [Doctrine Brasil](https://www.facebook.com/groups/doctrinebrasil)
 
 ## Ementa
+
+##**CUIDADO!!! Alterações podem ser feitas sem aviso prévio, por isso SEMPRE LEIA AQUI!!!!**
 
 - O que é necessário saber
   - Iniciando sua vida com serviços
