@@ -34,16 +34,15 @@ Apoia o projeto Webschool.io na trilha de Laravel:
 Mantenedor e criador dos seguintes grupos:
 
 * [Laravel São Paulo](https://www.facebook.com/groups/laravelsp)
- 
 * [Phing Brasil](https://www.facebook.com/groups/phingbrasil)
- 
 * [PHP Silex Brasil](https://www.facebook.com/groups/silexbrasil)
-  
 * [Doctrine Brasil](https://www.facebook.com/groups/doctrinebrasil)
 
 ## Ementa
 
 ##**CUIDADO!!! Alterações podem ser feitas sem aviso prévio, por isso SEMPRE LEIA AQUI!!!!**
+
+[Slides](https://docs.google.com/presentation/d/1WLRiUNffphIWlB4gNgEbshjEViYKIUbmk6uPeZExKdQ/edit?usp=sharing)
 
 - O que é necessário saber
   - Iniciando sua vida com serviços
