@@ -14,7 +14,7 @@ E veja de quebra além de toda a vantagem de não pagar nada você ainda terá a
 
 Para quem conseguir **COMPROVADAMENTE** trazer 15 amigos para o curso de Laravel completo e total ganhara um livro que sairá pela Casa Do Código inteiramente grátis de certificação PHP denominado: Descomplicando a certificação PHP.
 
-Agora para quem conseguir trazer 30 amigos além de ganhar o livro INTEIRAMENTE GRÁTIS também ganhará um adesivo do Laravel mais uma camiseta do nosso curso sem custo nenhum!
+Agora para quem conseguir trazer 30 amigos além de ganhar o livro **INTEIRAMENTE GRÁTIS** também ganhará um adesivo do Laravel mais uma camiseta do nosso curso sem custo nenhum!
 
 # O Professor
 
