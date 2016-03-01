@@ -2,7 +2,7 @@
 
 Curso mais completo e gratuito de Laravel do Universo aqui do Brasil com ele você será capaz de instalar o Laravel e criar seu próprio e-commerce sem dor de cabeça e complicações.
 
-E veja de quebra além de toda a vantagem de não pagar nada você ainda terá a oportunidade de saber como foi elaborado o projeto Laravel Pagseguro e quem sabe depois de conhecer a criação você não faça o seu mesmo ?
+E veja de quebra além de toda a vantagem de não pagar nada você ainda terá a oportunidade de saber como foi elaborado o projeto Laravel Pagseguro. - E quem sabe depois de conhecer a criação do Laravel PagSeguro você não faça queira criar a sua própria biblioteca ?
 
 # [Slack da Webschool](https://webschool-slack.herokuapp.com/)
 - Coloque um email para login( hotmail não funciona )
