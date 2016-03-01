@@ -18,7 +18,7 @@ Agora para quem conseguir trazer 30 amigos além de ganhar o livro **INTEIRAMENT
 
 # O Professor
 
-É graduado em gestão de tecnologia da informação e procura sempre estar próximo a comunidade ajudando com cursos e livros. 
+Michael Douglas Barbosa Araujo é graduado em gestão de tecnologia da informação e procura sempre estar próximo a comunidade ajudando com cursos e livros. 
 
 Sempre que pode tenta estar presente em palestras buscando não só palestrar como estar mais próximo da comunidade pois é apaixonado por Open Source em qualquer nível que ele esteja presente, compartilha seu conhecimento em seu site pessoal http://michaelaraujo.net e na comunidade laravel em http://www.laravel.com.br.
 
