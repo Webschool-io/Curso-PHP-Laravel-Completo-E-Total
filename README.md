@@ -44,17 +44,18 @@ Mantenedor e criador dos seguintes grupos:
 
 [Slides](https://docs.google.com/presentation/d/1WLRiUNffphIWlB4gNgEbshjEViYKIUbmk6uPeZExKdQ/edit?usp=sharing)
 
-- O que é necessário saber
-  - Iniciando sua vida com serviços
-    - Pretendo ensinar sobre o que é REST como o Laravel implementa isso em sua arquitetura. E também o por que de ser o primeiro item do curso já que estamos falando Laravel ! 
-  - Json
-Item reservado para explicar um pouco sobre o que é Json.
-  - Composer
-Irei ensinar os comandos básicos do composer e também como instalar o Laravel via: Composer e Laravel Installer
-  - NameSpace
-Explicação básica do que é e também como utilizar tanto em Laravel quanto PHP puro.
-Configurando os servidores WEB Apache e Nginx
-Irei demonstrar a instalação dos servidores Web e também a configuração do Laravel nos ambientes.
+- **O que é necessário saber**
+  + Vídeo: [https://www.youtube.com/watch?v=-ccU_-OIka4](https://www.youtube.com/watch?v=-ccU_-OIka4)
+  + Apresentação do Curso de Laravel
+        * Iniciando sua vida com serviços
+        * Pretendo ensinar sobre o que é REST como o Laravel implementa isso em sua arquitetura. E também o por que de ser o primeiro item do curso já que estamos falando Laravel ! 
+        * Json Item reservado para explicar um pouco sobre o que é Json.
+  + Composer
+        * O que é. e também comandos básicos do composer, como instalar o Laravel via: Composer e Laravel Installer
+  + NameSpace
+        * Explicação básica do que é e também como utilizar tanto em Laravel quanto PHP puro.
+        * Configurando os servidores WEB Apache e Nginx
+        * Instalção dos servidores Web e também a configuração do Laravel nos ambientes.
 - Arquitetura Laravel
   - Estrutura
 Explicação da estrutura e organização de pastas no ambiente Laravel
