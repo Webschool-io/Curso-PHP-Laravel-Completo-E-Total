@@ -44,6 +44,7 @@ Mantenedor e criador dos seguintes grupos:
 
 [Slides](https://docs.google.com/presentation/d/1WLRiUNffphIWlB4gNgEbshjEViYKIUbmk6uPeZExKdQ/edit?usp=sharing)
 
+- **Aula 00 - 21.03**
 - **O que é necessário saber**
   + Vídeo: [https://www.youtube.com/watch?v=-ccU_-OIka4](https://www.youtube.com/watch?v=-ccU_-OIka4)
   + Apresentação do Curso de Laravel
