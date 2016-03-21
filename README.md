@@ -46,7 +46,7 @@ Mantenedor e criador dos seguintes grupos:
 
 - **Aula 00 - 21.03**
 - **O que é necessário saber**
-  + Vídeo: [https://www.youtube.com/watch?v=-ccU_-OIka4](https://www.youtube.com/watch?v=-ccU_-OIka4)
+  + Vídeo: [https://www.youtube.com/watch?v=PXdavVkiAV4&feature=youtu.be](https://www.youtube.com/watch?v=PXdavVkiAV4&feature=youtu.be)
   + Apresentação do Curso de Laravel
         * Iniciando sua vida com serviços
         * Pretendo ensinar sobre o que é REST como o Laravel implementa isso em sua arquitetura. E também o por que de ser o primeiro item do curso já que estamos falando Laravel ! 
