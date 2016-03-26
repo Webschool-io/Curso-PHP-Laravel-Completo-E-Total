@@ -18,7 +18,7 @@ Agora para quem conseguir trazer 30 amigos além de ganhar o livro **INTEIRAMENT
 
 # O Professor
 
-Michael Douglas Barbosa Araujo é graduado em gestão de tecnologia da informação e procura sempre estar próximo a comunidade ajudando com cursos e livros. 
+Michael Douglas Barbosa Araujo é graduado em gestão de tecnologia da informação e procura sempre estar próximo a comunidade ajudando com cursos e livros.
 
 Sempre que pode tenta estar presente em palestras buscando não só palestrar como estar mais próximo da comunidade pois é apaixonado por Open Source em qualquer nível que ele esteja presente, compartilha seu conhecimento em seu site pessoal http://michaelaraujo.net e na comunidade laravel em http://www.laravel.com.br.
 
@@ -49,7 +49,7 @@ Mantenedor e criador dos seguintes grupos:
   + Vídeo: [https://www.youtube.com/watch?v=PXdavVkiAV4&feature=youtu.be](https://www.youtube.com/watch?v=PXdavVkiAV4&feature=youtu.be)
   + Apresentação do Curso de Laravel
         * Iniciando sua vida com serviços
-        * Pretendo ensinar sobre o que é REST como o Laravel implementa isso em sua arquitetura. E também o por que de ser o primeiro item do curso já que estamos falando Laravel ! 
+        * Pretendo ensinar sobre o que é REST como o Laravel implementa isso em sua arquitetura. E também o por que de ser o primeiro item do curso já que estamos falando Laravel !
         * Json Item reservado para explicar um pouco sobre o que é Json.
   + Composer
         * O que é. e também comandos básicos do composer, como instalar o Laravel via: Composer e Laravel Installer
@@ -64,7 +64,7 @@ Explicação da estrutura e organização de pastas no ambiente Laravel
 Como funciona o MVC dentro do ambiente Laravel e explicar o por que da não existência da pasta: Model
   - Configuração de ambiente “.env”
 Explicação do que é uma variável de ambiente e também sobre a utilização da biblioteca DotEnv.
-- Automatização de tarefas com o Phing [Matheus Marabesi](https://github.com/marabesi) 
+- Automatização de tarefas com o Phing [Matheus Marabesi](https://github.com/marabesi)
   - O que é o Phing ?
   - Por que devo automatizar?
   - Utilizando o Phing no Laravel e automatizando sua instalação
@@ -128,7 +128,7 @@ Chamando o NameSpace para chegada no controller.
         Além de utilizar irei realizar testes utilizando o modelo.
 - DDD - Domain Driven Development. [Vinicius Reis](https://github.com/vinicius73)
     - Introdução
-      - Módulos. O que são, o que resolvem e o eu não resolvem. 
+      - Módulos. O que são, o que resolvem e o eu não resolvem.
       - Um pouco de S.O.L.I.D.
     - Afinal o que é "desenvolvimento orientado a dominíos"?
       - Core
@@ -147,3 +147,52 @@ Chamando o NameSpace para chegada no controller.
     - Mergulhando fundo
       - Repository Partten
       - Services
+- Usando MongoDB com Laravel. **[Wendell Adriel](https://github.com/WendellAdriel)**
+  - Configuração do ambiente
+      - Verificação da versão do PHP e do [MongoDB](https://www.mongodb.org/)
+      - Instalação do driver PHP para MongoDB
+  - Iniciando o projeto
+      - Criando o projeto do 0 com o [Composer](https://getcomposer.org/)
+      - Instalando o [pacote](https://github.com/jenssegers/laravel-mongodb) para trabalhar com o MongoDB
+      - Configurando o BD
+  - Schemas
+      - Suporte do MongoDB ao Schema Builder do Laravel
+  - Query Builder
+      - Retornando todos documentos de uma coleção
+      - Procurando dados em uma coleção
+          - Where / Or / And
+          - Where utilizando arrays
+          - Where com between
+          - Where com null
+          - Order by
+          - Offset e Limit
+          - Distinct
+          - Group By
+          - Aggregations
+          - Like
+          - Utilizando operadores específicos do MongoDB
+              - Exists
+              - All
+              - Size
+              - Regex
+              - Type
+              - Mod
+      - Entendendo e usando o Soft deleting
+  - Inserindo, atualizando e deletando dados
+  - Trabalhando com datas utilizando o [Carbon](http://carbon.nesbot.com/docs/)
+  - Relacionamentos entre coleções
+      - hasOne
+      - hasMany
+      - belongsTo
+      - belongsToMany
+      - embedsOne
+      - embedsMany
+  - Aplicações com BD híbrido (MongoDB e MySQL)
+  - Operações específicas do MongoDB
+      - Upsert
+      - Projections
+      - Push
+      - Pull
+      - Unset
+      - Cursor timeout
+  - Log e Cache de Queries
