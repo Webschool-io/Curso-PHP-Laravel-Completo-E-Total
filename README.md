@@ -16,6 +16,8 @@ Para quem conseguir **COMPROVADAMENTE** trazer 15 amigos para o curso de Laravel
 
 Agora para quem conseguir trazer 30 amigos além de ganhar o livro **INTEIRAMENTE GRÁTIS** também ganhará um adesivo do Laravel mais uma camiseta do nosso curso sem custo nenhum!
 
+#### Para participar e indicar seus amigos acesse http://cursolaravel.webschool.io/
+
 # O Professor
 
 Michael Douglas Barbosa Araujo é graduado em gestão de tecnologia da informação e procura sempre estar próximo a comunidade ajudando com cursos e livros.
