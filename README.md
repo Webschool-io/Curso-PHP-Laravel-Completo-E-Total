@@ -128,6 +128,7 @@ Chamando o NameSpace para chegada no controller.
     - Aplicando testes com Laravel
     - Model Factories
         Além de utilizar irei realizar testes utilizando o modelo.
+    - Testando uma API RESTful
 - DDD - Domain Driven Development. [Vinicius Reis](https://github.com/vinicius73)
     - Introdução
       - Módulos. O que são, o que resolvem e o eu não resolvem.
