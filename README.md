@@ -66,7 +66,7 @@ Explicação da estrutura e organização de pastas no ambiente Laravel
 Como funciona o MVC dentro do ambiente Laravel e explicar o por que da não existência da pasta: Model
   - Configuração de ambiente “.env”
 Explicação do que é uma variável de ambiente e também sobre a utilização da biblioteca DotEnv.
-- Automatização de tarefas com o Phing [Matheus Marabesi](https://github.com/marabesi)
+- Automatização de tarefas com o Phing [Matheus Marabesi](https://github.com/marabesi) (Veja o curso completo de Phing da webschool clicando [aqui](https://github.com/Webschool-io/Curso-Phing))
   - O que é o Phing ?
   - Por que devo automatizar?
   - Utilizando o Phing no Laravel e automatizando sua instalação
