@@ -48,10 +48,8 @@ Mantenedor e criador dos seguintes grupos:
 - [Módulo 1 - Aula 1 - Introdução ao Curso](https://www.youtube.com/watch?v=PXdavVkiAV4&feature=youtu.be)
 - [Módulo 1 - Aula 2 - REST](https://youtu.be/VJUd3A1wbwU?list=PLMK0faGbSyGO1IPngKfyPqCKr2wB2QBV4)
 - [Módulo 1 - Aula 3 - JSON](https://youtu.be/-FW7YIz_FQM?list=PLMK0faGbSyGO1IPngKfyPqCKr2wB2QBV4)
-- [Módulo 1 - Aula 4 - Composer](https://youtu.be/ruhNNlagi0Y?list=PLMK0faGbSyGO1IPngKfyPqCKr2wB2QBV4)
- 
+- [Módulo 1 - Aula 4 - Composer](https://youtu.be/ruhNNlagi0Y?list=PLMK0faGbSyGO1IPngKfyPqCKr2wB2QBV4) 
 
-- **Aula 00 - 21.03**
 - **O que é necessário saber**
   + Apresentação do Curso de Laravel
         * Iniciando sua vida com serviços
