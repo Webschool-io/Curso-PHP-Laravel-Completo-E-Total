@@ -44,11 +44,15 @@ Mantenedor e criador dos seguintes grupos:
 
 ##**CUIDADO!!! Alterações podem ser feitas sem aviso prévio, por isso SEMPRE LEIA AQUI!!!!**
 
-[Slides](https://docs.google.com/presentation/d/1WLRiUNffphIWlB4gNgEbshjEViYKIUbmk6uPeZExKdQ/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1WLRiUNffphIWlB4gNgEbshjEViYKIUbmk6uPeZExKdQ/edit?usp=sharing)
+- [Módulo 1 - Aula 1 - Introdução ao Curso](https://www.youtube.com/watch?v=PXdavVkiAV4&feature=youtu.be)
+- [Módulo 1 - Aula 2 - REST](https://youtu.be/VJUd3A1wbwU?list=PLMK0faGbSyGO1IPngKfyPqCKr2wB2QBV4)
+- [Módulo 1 - Aula 3 - JSON](https://youtu.be/-FW7YIz_FQM?list=PLMK0faGbSyGO1IPngKfyPqCKr2wB2QBV4)
+- [Módulo 1 - Aula 4 - Composer](https://youtu.be/ruhNNlagi0Y?list=PLMK0faGbSyGO1IPngKfyPqCKr2wB2QBV4)
+ 
 
 - **Aula 00 - 21.03**
 - **O que é necessário saber**
-  + Vídeo: [https://www.youtube.com/watch?v=PXdavVkiAV4&feature=youtu.be](https://www.youtube.com/watch?v=PXdavVkiAV4&feature=youtu.be)
   + Apresentação do Curso de Laravel
         * Iniciando sua vida com serviços
         * Pretendo ensinar sobre o que é REST como o Laravel implementa isso em sua arquitetura. E também o por que de ser o primeiro item do curso já que estamos falando Laravel !
